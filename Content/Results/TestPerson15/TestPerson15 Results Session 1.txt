@@ -1,0 +1,18 @@
+1|480.69809|true|close| static|Mouse|First|2|0|0.69809|4.042709|85.869919|8.888624,8.528471,4.701367,|Inner Red/Inner Red/Bullseye Yellow
+2|235.0|true|medium| dynamic|Mouse|First|1|8|0.0|10.332367|120.598633|5.282176,13.709425,9.12167,|Complete Miss/Complete Miss/Near Miss/Near Miss/Complete Miss/Inner Red/Half Blue/Near Miss/Complete Miss/Complete Miss/Inner Red
+3|531.215454|true|close| static|Mouse|First|2|0|31.215439|1.920792|42.988628|2.394804,4.468529,1.920353,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+4|327.361755|true|medium| dynamic|Mouse|First|1|3|12.361768|3.120682|64.078079|5.274889,10.049927,17.413853,|Complete Miss/Inner Red/Near Miss/Near Miss/Half Blue/Outer Black
+5|504.261017|true|close| static|Mouse|First|2|0|39.261009|1.392502|21.790228|12.845691,8.060415,5.809133,|Half Blue/Inner Red/Inner Red
+6|445.0|true|far| dynamic|Mouse|First|2|0|0.0|1.865906|6.877451|20.438221,14.761642,13.332494,|Outer White/Half Blue/Half Blue
+7|456.822021|true|far| static|Mouse|First|2|1|11.82203|3.172836|66.097916|7.536187,9.168736,20.790119,|Near Miss/Inner Red/Inner Red/Outer White
+8|470.376129|true|close| dynamic|Mouse|First|2|0|25.376129|2.307587|53.703171|14.847507,15.244033,15.023328,|Half Blue/Outer Black/Outer Black
+9|404.325378|true|medium| dynamic|Mouse|First|1|2|49.325397|1.030258|34.259712|3.762426,12.895766,8.335906,|Bullseye Yellow/Half Blue/Near Miss/Near Miss/Inner Red
+10|518.374451|true|close| static|Mouse|First|2|0|28.374472|2.479233|123.616196|2.043569,7.308013,1.93846,|Bullseye Yellow/Inner Red/Bullseye Yellow
+11|328.998627|true|far| dynamic|Mouse|First|1|2|18.998629|2.506897|42.036324|4.216927,22.914688,24.248568,|Bullseye Yellow/Complete Miss/Complete Miss/Outer White/Outer White
+12|508.589844|true|medium| static|Mouse|First|2|0|38.589848|1.50351|32.932281|17.637268,1.439545,7.946078,|Outer Black/Bullseye Yellow/Inner Red
+13|366.542908|true|far| dynamic|Mouse|First|1|1|26.542908|2.089539|37.370102|17.913975,10.337384,11.490314,|Outer Black/Near Miss/Half Blue/Half Blue
+14|475.745117|true|medium| static|Mouse|First|2|1|10.745105|3.173584|60.769855|10.220189,4.367786,4.405082,|Complete Miss/Half Blue/Bullseye Yellow/Bullseye Yellow
+15|509.256348|true|close| dynamic|Mouse|First|2|0|44.256336|1.365936|95.733444|7.223366,7.855851,11.816192,|Inner Red/Inner Red/Half Blue
+16|530.306946|true|medium| static|Mouse|First|2|0|40.306942|1.365265|23.179094|1.410268,6.050205,4.899884,|Bullseye Yellow/Inner Red/Bullseye Yellow
+17|361.973938|true|far| dynamic|Mouse|First|1|2|41.973923|1.475464|75.032066|14.237268,25.53071,16.036493,|Half Blue/Outer White/Near Miss/Near Miss/Outer Black
+18|447.489807|true|far| static|Mouse|First|2|1|7.489821|4.038483|146.16156|5.526878,10.280499,12.531571,|Complete Miss/Inner Red/Half Blue/Half Blue

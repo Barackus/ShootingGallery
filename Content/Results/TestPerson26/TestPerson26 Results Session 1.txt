@@ -1,0 +1,18 @@
+1|485.0|true|close| static|Head|First|2|0|0.0|6.241699|85.869919|2.216028,4.847948,11.043043,|Bullseye Yellow/Bullseye Yellow/Half Blue
+2|497.751709|true|medium| static|Head|First|2|0|7.751703|3.343506|61.097931|4.344735,2.516939,7.990406,|Bullseye Yellow/Bullseye Yellow/Inner Red
+3|462.53949|true|close| dynamic|Head|First|2|0|12.539494|3.284912|82.563316|8.307878,16.598799,15.610915,|Inner Red/Outer Black/Outer Black
+4|506.124817|true|far| static|Head|First|2|0|16.124811|3.342529|128.770203|4.449402,5.847389,4.761837,|Bullseye Yellow/Inner Red/Bullseye Yellow
+5|295.0|true|far| dynamic|Head|First|1|5|0.0|12.811523|130.303726|4.605388,3.346836,14.88133,|Near Miss/Complete Miss/Complete Miss/Bullseye Yellow/Complete Miss/Complete Miss/Bullseye Yellow/Half Blue
+6|175.0|true|far| dynamic|Head|First|0|7|0.0|13.755371|43.257835|4.070482,7.164637,11.676125,|Near Miss/Complete Miss/Near Miss/Near Miss/Bullseye Yellow/Complete Miss/Inner Red/Complete Miss/Near Miss/Half Blue
+7|340.0|true|far| dynamic|Head|First|1|1|0.0|1.587646|4.766364|9.42359,13.282003,24.85375,|Inner Red/Near Miss/Half Blue/Outer White
+8|295.0|true|far| dynamic|Head|First|1|3|0.0|5.653809|53.469109|15.124217,6.653628,10.30988,|Complete Miss/Complete Miss/Outer Black/Complete Miss/Inner Red/Half Blue
+9|349.853943|true|medium| dynamic|Head|First|1|2|34.853951|1.477295|16.560501|9.133816,17.751429,20.087097,|Inner Red/Near Miss/Complete Miss/Outer Black/Outer White
+10|505.525024|true|medium| static|Head|First|2|0|20.525009|2.701172|69.05217|0.956324,1.224526,10.081353,|Bullseye Yellow/Bullseye Yellow/Half Blue
+11|533.377625|true|close| static|Head|First|2|0|33.377613|1.72583|32.112862|3.963038,3.192609,2.658551,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+12|470.0|true|far| static|Head|First|2|0|0.0|4.288086|66.454117|8.491985,6.164333,6.903072,|Inner Red/Inner Red/Inner Red
+13|377.523743|true|close| dynamic|Head|First|1|1|42.523746|1.22583|15.422483|15.382428,6.153096,10.948426,|Outer Black/Inner Red/Complete Miss/Half Blue
+14|505.030334|true|medium| static|Head|First|2|0|25.030323|2.61792|101.559334|2.644661,8.152719,6.687984,|Bullseye Yellow/Inner Red/Inner Red
+15|530.907288|true|close| static|Head|First|2|0|30.907286|1.810303|30.038591|4.66924,1.106927,4.665196,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+16|510.12616|true|close| static|Head|First|2|0|20.126152|2.979248|109.958099|1.917017,5.871217,3.216731,|Bullseye Yellow/Inner Red/Bullseye Yellow
+17|290.0|true|medium| dynamic|Head|First|1|4|0.0|4.707275|49.774231|17.50374,1.176857,8.740591,|Complete Miss/Outer Black/Complete Miss/Complete Miss/Complete Miss/Bullseye Yellow/Inner Red
+18|467.89682|true|medium| dynamic|Head|First|2|0|17.896811|2.784424|61.479179|14.310421,16.344872,12.060183,|Half Blue/Outer Black/Half Blue

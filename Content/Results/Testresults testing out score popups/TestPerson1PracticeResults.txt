@@ -1,0 +1,54 @@
+0|0.0|false|||||0|0|0.0|0.0|0.0||
+1|475.0|true|close| static|Gun|First|2|0|50.0|0.966498|85.869919|17.585688,9.994777,7.97637,|EdgeHit/BullsEye/BullsEye
+2|-195.0|true|far| dynamic|Gun|First|0|14|31.642687|2.097055|77.194115|23.536425,0.0,0.0,|CompleteMiss/EdgeHit/CompleteMiss/CompleteMiss/CompleteMiss/CompleteMiss/CompleteMiss/CompleteMiss/CompleteMiss/CompleteMiss/NearMiss/CompleteMiss/CompleteMiss/CompleteMiss/CompleteMiss
+3|500.0|true|far| static|Gun|First|2|0|0.0|6.846533|55.415825|4.648072,5.741751,5.548955,|BullsEye/BullsEye/BullsEye
+4|190.0|true|far| dynamic|Gun|First|0|4|6.407553|3.532671|70.508774|12.541145,15.538271,11.30049,|CompleteMiss/EdgeHit/NearMiss/EdgeHit/NearMiss/CompleteMiss/BullsEye
+5|330.0|true|far| dynamic|Gun|First|1|2|0.0|7.960808|73.803055|10.913508,19.799852,19.833649,|BullsEye/EdgeHit/NearMiss/NearMiss/EdgeHit
+6|340.0|true|close| dynamic|Gun|First|1|1|46.354225|1.225147|86.056473|18.841402,13.819321,8.216097,|EdgeHit/EdgeHit/NearMiss/BullsEye
+7|500.0|true|close| static|Gun|First|2|0|47.669819|1.074875|17.129374|7.226424,4.88927,5.034568,|BullsEye/BullsEye/BullsEye
+8|475.0|true|close| static|Gun|First|2|0|30.466175|1.946545|41.692463|23.547483,7.445698,6.73918,|EdgeHit/BullsEye/BullsEye
+9|430.0|true|close| dynamic|Gun|First|2|1|0.0|5.010231|19.328938|18.247803,21.950365,6.277321,|CompleteMiss/EdgeHit/EdgeHit/BullsEye
+10|500.0|true|medium| static|Gun|First|2|0|11.94233|2.378128|21.392979|5.901152,5.096923,4.847064,|BullsEye/BullsEye/BullsEye
+11|0.0|true|medium| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+12|0.0|true|far| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+13|0.0|true|medium| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+14|0.0|true|medium| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+15|0.0|true|far| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+16|0.0|true|medium| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+17|0.0|true|close| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+18|0.0|true|medium| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+19|450.0|true|close| static| Head|Second|2|0|10.505697|3.606796|108.475243|21.570049,16.166924,11.764061,|EdgeHit/EdgeHit/BullsEye
+20|220.0|true|medium| static| Head|Second|0|3|9.256681|3.260025|61.097931|20.377926,9.797537,35.954292,|NearMiss/EdgeHit/NearMiss/BullsEye/NearMiss/EdgeHit
+21|0.0|true|close| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+22|0.0|true|far| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+23|0.0|true|far| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+24|0.0|true|far| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+25|0.0|true|far| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+26|0.0|true|far| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+27|0.0|true|medium| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+28|0.0|true|medium| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+29|0.0|true|close| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+30|0.0|true|far| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+31|0.0|true|close| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+32|0.0|true|medium| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+33|0.0|true|close| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+34|0.0|true|close| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+35|0.0|true|medium| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+36|0.0|true|medium| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+37|-20.0|true|close| static| Mouse|Third|0|1|0.0|0.0|0.0|0.0,0.0,0.0,|CompleteMiss
+38|0.0|true|medium| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+39|0.0|true|close| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+40|0.0|true|medium| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+41|0.0|true|close| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+42|0.0|true|far| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+43|0.0|true|far| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+44|0.0|true|close| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+45|-60.0|true|medium| dynamic| Mouse|Third|0|3|0.0|0.0|0.0|0.0,0.0,0.0,|CompleteMiss/CompleteMiss/CompleteMiss
+46|0.0|true|close| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+47|0.0|true|far| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+48|0.0|true|medium| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+49|0.0|true|far| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+50|0.0|true|medium| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+51|0.0|true|close| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+52|0.0|true|medium| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+53|0.0|true|far| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|

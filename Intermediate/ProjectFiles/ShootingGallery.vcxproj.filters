@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShootingGallery.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{10B7D07C-5EA1-436C-8326-41204B5B49B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootingGallery.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShootingGalleryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B6550D06-D390-4559-BD33-F5966CCB8CDE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShootingGallery">
+      <UniqueIdentifier>{2ED90B4C-9202-469B-8458-651D17A21656}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootingGallery\FileIO.cpp">
+      <Filter>Source\ShootingGallery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingGallery\FileIO.h">
+      <Filter>Source\ShootingGallery</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ShootingGallery\ShootingGallery.Build.cs">
+      <Filter>Source\ShootingGallery</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShootingGallery\ShootingGallery.cpp">
+      <Filter>Source\ShootingGallery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingGallery\ShootingGallery.h">
+      <Filter>Source\ShootingGallery</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

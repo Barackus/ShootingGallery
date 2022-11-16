@@ -1,0 +1,42 @@
+253|491.379791|false|close|dynamic|Mouse|Third|2|0|11.379787|3.559814|110.127167|8.471127,6.098436,2.653129,|Inner Red/Inner Red/Bullseye Yellow
+254|505.266235|false|far|static|Mouse|Third|2|0|25.266254|2.603271|101.702347|8.865613,5.692302,1.591337,|Inner Red/Inner Red/Bullseye Yellow
+255|461.365204|false|far|dynamic|Mouse|Third|2|0|6.365201|3.14917|43.542763|17.068884,7.674331,14.056175,|Outer Black/Inner Red/Half Blue
+256|495.611328|false|far|static|Mouse|Third|2|0|5.611321|3.944336|110.421982|6.079225,1.195976,1.385078,|Inner Red/Bullseye Yellow/Bullseye Yellow
+257|515.945801|false|medium|dynamic|Mouse|Third|2|0|45.94577|1.255371|92.037819|0.712789,8.598301,18.379589,|Bullseye Yellow/Inner Red/Outer Black
+258|486.275696|false|close|dynamic|Mouse|Third|2|0|11.275705|2.027832|12.631179|11.554616,1.019714,8.731599,|Half Blue/Bullseye Yellow/Inner Red
+259|515.198364|false|far|static|Mouse|Third|2|0|15.198359|3.011719|69.389839|1.744661,1.090509,3.565522,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+260|475.0|false|close|dynamic|Mouse|Third|2|0|0.0|5.221191|52.268982|3.206129,6.438822,12.184583,|Bullseye Yellow/Inner Red/Half Blue
+261|500.0|false|medium|static|Mouse|Third|2|0|0.0|2.66333|8.429061|3.833725,1.081199,1.000528,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+262|500.0|false|close|static|Mouse|Third|2|0|0.0|3.260498|13.238322|1.243607,0.681367,1.367991,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+263|516.191589|false|close|static|Mouse|Third|2|0|16.191605|2.230225|21.599798|0.972816,0.699435,1.558174,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+264|480.0|false|close|dynamic|Mouse|Third|2|0|0.0|4.791992|83.954552|3.522263,16.325163,4.557145,|Bullseye Yellow/Outer Black/Bullseye Yellow
+265|525.397217|false|medium|static|Mouse|Third|2|0|25.397215|2.4646|76.226837|3.764562,3.309935,0.978537,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+266|351.19519|false|medium|dynamic|Mouse|Third|1|1|11.195183|3.454102|93.31739|11.565598,13.255548,8.916063,|Half Blue/Half Blue/Complete Miss/Inner Red
+267|530.767334|false|close|static|Mouse|Third|2|0|30.767328|2.267578|107.904434|1.187555,0.785481,1.685504,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+268|377.516815|false|medium|dynamic|Mouse|Third|1|1|22.516806|2.355713|43.7216|11.388337,2.397135,7.333385,|Half Blue/Bullseye Yellow/Complete Miss/Inner Red
+269|529.198608|false|close|dynamic|Mouse|Third|2|0|49.198639|1.043457|57.103436|7.562433,1.813483,5.484991,|Inner Red/Bullseye Yellow/Inner Red
+270|478.980804|false|close|dynamic|Mouse|Third|2|0|33.980808|1.47583|15.005857|7.042368,22.857248,18.130472,|Inner Red/Outer White/Outer Black
+271|512.903931|false|medium|static|Mouse|Third|2|0|12.903944|2.660889|34.109291|3.146065,2.374602,2.204928,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+272|495.532074|false|far|static|Mouse|Third|2|0|10.532069|2.856934|38.614277|13.772965,2.437173,3.321335,|Half Blue/Bullseye Yellow/Bullseye Yellow
+273|500.0|false|medium|dynamic|Mouse|Third|2|0|50.0|0.724365|69.076004|14.561716,19.340897,11.195342,|Half Blue/Outer Black/Half Blue
+274|500.704803|false|close|dynamic|Mouse|Third|2|0|20.7048|2.089355|22.558935|7.990961,8.110411,3.283809,|Inner Red/Inner Red/Bullseye Yellow
+275|480.0|false|close|dynamic|Mouse|Third|2|0|0.0|3.708496|26.05735|5.619126,6.141369,4.277647,|Inner Red/Inner Red/Bullseye Yellow
+276|521.971619|false|medium|static|Mouse|Third|2|0|21.971617|1.923828|17.919752|3.725784,0.657329,2.236974,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+277|450.0|false|close|dynamic|Mouse|Third|2|1|0.0|5.357422|35.26585|6.53424,7.277688,5.063147,|Complete Miss/Inner Red/Inner Red/Inner Red
+278|498.229309|false|medium|dynamic|Mouse|Third|2|0|43.229313|1.45166|112.716141|10.721433,9.24239,18.675785,|Half Blue/Inner Red/Outer Black
+279|536.857483|false|close|static|Mouse|Third|2|0|36.857498|1.615967|38.235558|1.001788,0.82564,1.241349,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+280|470.0|false|medium|dynamic|Mouse|Third|2|0|0.0|3.202637|29.21209|16.118832,5.272953,3.330989,|Outer Black/Inner Red/Bullseye Yellow
+281|450.0|false|medium|dynamic|Mouse|Third|2|0|0.0|2.932617|24.108791|12.095946,12.718363,15.05232,|Half Blue/Half Blue/Outer Black
+282|477.788025|false|medium|dynamic|Mouse|Third|2|0|12.788025|3.331299|90.349953|11.774881,8.611266,7.948136,|Half Blue/Inner Red/Inner Red
+283|514.454224|false|close|static|Mouse|Third|2|0|14.454192|1.686279|8.515591|3.844888,0.986043,1.634529,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+284|478.075928|false|far|dynamic|Mouse|Third|2|0|13.075918|3.456299|111.584328|6.573875,11.146333,5.241652,|Inner Red/Half Blue/Inner Red
+285|528.769287|false|far|static|Mouse|Third|2|0|38.769287|1.600098|54.681244|2.255155,5.823521,1.554834,|Bullseye Yellow/Inner Red/Bullseye Yellow
+286|393.782349|false|close|dynamic|Mouse|Third|1|1|23.782364|1.998779|23.706102|7.558889,7.773241,4.312455,|Inner Red/Inner Red/Near Miss/Bullseye Yellow
+287|518.391968|false|far|static|Mouse|Third|2|0|28.391954|2.126709|50.967827|6.519977,3.990332,1.660204,|Inner Red/Bullseye Yellow/Bullseye Yellow
+288|497.51651|false|far|dynamic|Mouse|Third|2|0|42.516514|1.240479|17.131163|7.326454,18.312416,10.992891,|Inner Red/Outer Black/Half Blue
+289|534.701233|false|close|static|Mouse|Third|2|0|34.701233|1.853271|62.118595|1.390648,0.939911,0.620825,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+290|500.0|false|medium|static|Mouse|Third|2|0|0.0|4.986084|151.872864|0.609444,1.345591,1.06026,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+291|460.0|false|medium|dynamic|Mouse|Third|2|1|0.0|5.878418|44.475773|9.912769,6.944631,8.432762,|Near Miss/Inner Red/Inner Red/Inner Red
+292|480.0|false|close|dynamic|Mouse|Third|2|0|0.0|4.416504|89.171585|5.279503,4.730445,5.936816,|Inner Red/Bullseye Yellow/Inner Red
+293|533.832642|false|far|static|Mouse|Third|2|0|33.832611|2.049072|102.074005|2.250419,1.347733,3.813655,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+294|504.496948|false|medium|dynamic|Mouse|Third|2|0|44.496964|1.319824|70.581406|19.87294,6.984384,7.883413,|Outer Black/Inner Red/Inner Red

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShootingGallery",
+			"Path": "C:\\Users\\Notebook Bart\\Documents\\Unreal Projects\\ShootingGallery 4.25\\Source\\ShootingGallery.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShootingGalleryEditor",
+			"Path": "C:\\Users\\Notebook Bart\\Documents\\Unreal Projects\\ShootingGallery 4.25\\Source\\ShootingGalleryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

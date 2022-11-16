@@ -1,0 +1,18 @@
+1|513.830627|true|close| static|Mouse|First|2|0|13.830629|3.232224|85.869919|2.254365,2.418474,4.145328,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+2|342.97113|true|medium| dynamic|Mouse|First|1|1|12.971142|3.434395|106.942284|7.731586,18.70805,16.218597,|Inner Red/Complete Miss/Outer Black/Outer Black
+3|512.868164|true|close| static|Mouse|First|2|0|12.868151|2.116234|15.301138|2.792418,3.57394,1.299475,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+4|358.370209|true|medium| dynamic|Mouse|First|1|1|38.370216|1.644775|61.004463|19.817354,23.457777,13.973419,|Outer Black/Outer White/Complete Miss/Half Blue
+5|534.499268|true|close| static|Mouse|First|2|0|34.499275|1.782257|46.516239|0.634575,2.573071,2.561734,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+6|180.0|true|far| dynamic|Mouse|First|0|4|0.0|3.898544|10.112722|14.670589,18.902138,12.927608,|Complete Miss/Half Blue/Near Miss/Complete Miss/Outer Black/Complete Miss/Half Blue
+7|475.0|true|far| static|Mouse|First|2|0|0.0|5.431458|69.919563|10.63873,5.409116,4.955825,|Half Blue/Inner Red/Bullseye Yellow
+8|425.0|true|close| dynamic|Mouse|First|2|2|0.0|4.42897|32.195305|16.651003,10.259596,7.654098,|Complete Miss/Near Miss/Outer Black/Half Blue/Inner Red
+9|450.0|true|medium| dynamic|Mouse|First|2|1|0.0|4.344345|30.203423|18.325722,5.21297,6.784969,|Near Miss/Outer Black/Inner Red/Inner Red
+10|525.102661|true|close| static|Mouse|First|2|0|25.102638|2.758331|139.520294|2.854632,2.070609,3.147023,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+11|240.0|true|far| dynamic|Mouse|First|1|6|0.0|6.82074|41.908978|19.459862,19.224926,17.410795,|Complete Miss/Complete Miss/Outer Black/Outer Black/Complete Miss/Complete Miss/Near Miss/Near Miss/Outer Black
+12|505.173187|true|medium| static|Mouse|First|2|0|25.173178|1.92099|22.449938|9.763807,3.248963,5.020591,|Inner Red/Bullseye Yellow/Inner Red
+13|370.705322|true|far| dynamic|Mouse|First|1|1|40.705307|1.448975|41.347893|10.369779,7.700195,21.799057,|Half Blue/Complete Miss/Inner Red/Outer White
+14|527.69519|true|medium| static|Mouse|First|2|0|27.695169|2.312393|73.410515|3.922561,2.24492,3.393077,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+15|525.453979|true|close| dynamic|Mouse|First|2|0|35.454018|2.005341|128.51004|9.388073,4.513848,2.724479,|Inner Red/Bullseye Yellow/Bullseye Yellow
+16|522.192139|true|medium| static|Mouse|First|2|0|32.192139|1.782867|32.635189|5.610008,2.594432,3.331374,|Inner Red/Bullseye Yellow/Bullseye Yellow
+17|493.979431|true|far| dynamic|Mouse|First|2|0|13.97942|2.950958|56.896244|6.695574,0.921027,6.073223,|Inner Red/Bullseye Yellow/Inner Red
+18|500.812317|true|far| static|Mouse|First|2|0|25.812313|2.674957|129.4496|12.220176,1.859633,5.69827,|Half Blue/Bullseye Yellow/Inner Red

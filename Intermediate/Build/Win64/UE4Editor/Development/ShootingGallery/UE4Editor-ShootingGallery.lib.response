@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ShootingGallery.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Notebook Bart\Documents\Unreal Projects\ShootingGallery 4.25\Intermediate\Build\Win64\ShootingGalleryEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Notebook Bart\Documents\Unreal Projects\ShootingGallery 4.25\Intermediate\Build\Win64\UE4Editor\Development\ShootingGallery\FileIO.cpp.obj"
+"C:\Users\Notebook Bart\Documents\Unreal Projects\ShootingGallery 4.25\Intermediate\Build\Win64\UE4Editor\Development\ShootingGallery\ShootingGallery.cpp.obj"
+"C:\Users\Notebook Bart\Documents\Unreal Projects\ShootingGallery 4.25\Intermediate\Build\Win64\UE4Editor\Development\ShootingGallery\FileIO.gen.cpp.obj"
+"C:\Users\Notebook Bart\Documents\Unreal Projects\ShootingGallery 4.25\Intermediate\Build\Win64\UE4Editor\Development\ShootingGallery\ShootingGallery.init.gen.cpp.obj"
+"C:\Users\Notebook Bart\Documents\Unreal Projects\ShootingGallery 4.25\Intermediate\Build\Win64\UE4Editor\Development\ShootingGallery\Default.rc2.res"
+/OUT:"C:\Users\Notebook Bart\Documents\Unreal Projects\ShootingGallery 4.25\Intermediate\Build\Win64\UE4Editor\Development\ShootingGallery\UE4Editor-ShootingGallery.lib"
+/INCLUDE:IMPLEMENT_MODULE_ShootingGallery

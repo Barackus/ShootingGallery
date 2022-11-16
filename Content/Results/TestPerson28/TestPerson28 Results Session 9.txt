@@ -1,0 +1,42 @@
+37|500.0|true|close| static|Mouse|Third|2|0|0.0|3.148438|30.122051|2.617971,3.491883,2.478397,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+38|479.561859|true|medium| dynamic|Mouse|Third|2|0|9.561857|3.621338|101.714394|5.11206,5.746189,8.234858,|Inner Red/Inner Red/Inner Red
+39|535.36676|true|close| static|Mouse|Third|2|0|35.366749|1.726562|44.497196|1.201448,0.735191,1.080449,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+40|469.262512|true|medium| dynamic|Mouse|Third|2|0|9.262493|3.397949|73.508438|10.617469,9.40803,14.76532,|Half Blue/Inner Red/Half Blue
+41|540.998596|true|close| static|Mouse|Third|2|0|40.9986|1.447754|44.718887|1.989767,2.309267,1.40345,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+42|450.0|true|far| dynamic|Mouse|Third|2|0|0.0|3.066162|12.180063|12.196082,12.942522,16.368141,|Half Blue/Half Blue/Outer Black
+43|475.0|true|far| static|Mouse|Third|2|0|0.0|9.049805|76.550613|5.508053,10.360818,2.533212,|Inner Red/Half Blue/Bullseye Yellow
+44|460.0|true|close| dynamic|Mouse|Third|2|1|0.0|3.870117|31.117449|9.076154,5.566392,9.32239,|Near Miss/Inner Red/Inner Red/Inner Red
+45|305.0|true|medium| dynamic|Mouse|Third|1|2|0.0|2.171387|10.351036|16.841299,19.91964,20.758579,|Outer Black/Outer Black/Near Miss/Complete Miss/Outer White
+46|503.17926|true|close| static|Mouse|Third|2|0|3.179255|4.287842|136.502441|3.705541,0.938742,2.903973,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+47|445.0|true|far| dynamic|Mouse|Third|2|1|0.0|4.12085|50.959137|5.674189,10.530544,15.341616,|Near Miss/Inner Red/Half Blue/Outer Black
+48|509.941345|true|medium| static|Mouse|Third|2|0|29.941338|1.671387|18.425457|6.985432,5.871792,4.857851,|Inner Red/Inner Red/Bullseye Yellow
+49|475.0|true|far| dynamic|Mouse|Third|2|0|0.0|3.760498|43.278118|13.36332,7.808387,1.118931,|Half Blue/Inner Red/Bullseye Yellow
+50|490.0|true|medium| static|Mouse|Third|2|0|0.0|4.679443|61.80912|1.810691,5.675329,2.815804,|Bullseye Yellow/Inner Red/Bullseye Yellow
+51|506.680298|true|close| dynamic|Mouse|Third|2|0|21.680311|2.896973|114.424667|4.41724,10.899724,3.610065,|Bullseye Yellow/Half Blue/Bullseye Yellow
+52|542.114319|true|medium| static|Mouse|Third|2|0|42.114307|1.335938|30.302423|3.080903,3.208515,3.145439,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+53|425.0|true|far| dynamic|Mouse|Third|2|2|0.0|5.846191|68.4217|15.611064,7.262517,22.103308,|Near Miss/Near Miss/Outer Black/Inner Red/Outer White
+54|484.894226|true|far| static|Mouse|Third|2|0|4.894215|4.205566|142.941299|15.370394,1.804518,4.344426,|Outer Black/Bullseye Yellow/Bullseye Yellow
+229|490.0|false|far|static|Head|Second|2|0|0.0|2.841064|21.017576|9.280196,1.185319,2.227747,|Inner Red/Bullseye Yellow/Bullseye Yellow
+230|340.0|false|medium|dynamic|Head|Second|1|1|0.0|4.984863|110.701538|14.061797,17.708725,11.405955,|Half Blue/Outer Black/Near Miss/Half Blue
+231|509.681213|false|far|static|Head|Second|2|0|29.6812|2.311279|100.129883|3.58857,9.71898,6.465667,|Bullseye Yellow/Inner Red/Inner Red
+232|514.968384|false|close|dynamic|Head|Second|2|0|49.968399|1.001709|56.638039|7.514781,5.161398,11.198899,|Inner Red/Inner Red/Half Blue
+233|523.615112|false|medium|static|Head|Second|2|0|38.615105|1.55957|43.298237|11.086915,2.561058,3.746615,|Half Blue/Bullseye Yellow/Bullseye Yellow
+234|481.593536|false|medium|dynamic|Head|Second|2|0|21.593529|2.201416|29.799467|13.557622,13.800619,5.858165,|Half Blue/Half Blue/Inner Red
+235|480.0|false|far|dynamic|Head|Second|2|0|0.0|2.00415|4.840733|1.152717,8.941178,6.888967,|Bullseye Yellow/Inner Red/Inner Red
+236|541.045776|false|close|static|Head|Second|2|0|41.045769|1.338379|23.314257|4.135257,2.609603,2.468024,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+237|435.0|false|medium|dynamic|Head|Second|2|1|0.0|4.401123|38.405197|5.694768,6.09394,22.082355,|Complete Miss/Inner Red/Inner Red/Outer White
+238|475.0|false|close|dynamic|Head|Second|2|0|0.0|3.814453|19.195179|13.231515,3.397713,5.210878,|Half Blue/Bullseye Yellow/Inner Red
+239|315.0|false|far|dynamic|Head|Second|1|3|0.0|9.136719|54.365047|5.20573,16.427284,10.842778,|Complete Miss/Near Miss/Inner Red/Outer Black/Near Miss/Half Blue
+240|397.922516|false|far|dynamic|Head|Second|1|1|47.922512|1.114502|59.929859|13.934237,13.961572,8.314589,|Half Blue/Near Miss/Half Blue/Inner Red
+241|540.0|false|close|static|Head|Second|2|0|50.0|0.807861|2.200091|6.622737,2.276982,1.424811,|Inner Red/Bullseye Yellow/Bullseye Yellow
+242|503.976898|false|close|dynamic|Head|Second|2|0|28.976891|1.809814|24.260853|2.279945,10.782658,7.256279,|Bullseye Yellow/Half Blue/Inner Red
+243|475.0|false|far|static|Head|Second|2|0|0.0|1.865479|3.813808|13.357592,2.106062,8.308708,|Half Blue/Bullseye Yellow/Inner Red
+244|529.347961|false|close|static|Head|Second|2|0|29.34798|1.754395|21.766052|2.820162,1.609526,1.924315,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+245|550.0|false|medium|static|Head|Second|2|0|50.0|1.922119|1.0|4.30215,2.365588,4.040741,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+246|519.425476|false|medium|static|Head|Second|2|0|39.425495|1.336914|16.877678|6.814354,5.678949,2.245524,|Inner Red/Inner Red/Bullseye Yellow
+247|535.0|false|medium|static|Head|Second|2|0|50.0|0.751465|38.344776|14.170562,2.367775,3.452502,|Half Blue/Bullseye Yellow/Bullseye Yellow
+248|507.779602|false|medium|static|Head|Second|2|0|27.779615|2.311279|74.107742|18.337599,4.232223,3.264591,|Outer Black/Bullseye Yellow/Bullseye Yellow
+249|511.008728|false|medium|static|Head|Second|2|0|36.008728|1.894287|96.815353|12.544537,7.42297,3.896639,|Half Blue/Inner Red/Bullseye Yellow
+250|340.0|false|medium|dynamic|Head|Second|1|2|0.0|4.064453|68.35939|7.59092,12.893228,11.245444,|Near Miss/Inner Red/Near Miss/Half Blue/Half Blue
+251|524.060303|false|far|static|Head|Second|2|0|34.060287|1.782715|43.190956|6.301963,4.888854,3.15717,|Inner Red/Bullseye Yellow/Bullseye Yellow
+252|515.436157|false|close|static|Head|Second|2|0|40.436172|1.251709|12.478308|22.479097,2.48568,3.194077,|Outer White/Bullseye Yellow/Bullseye Yellow

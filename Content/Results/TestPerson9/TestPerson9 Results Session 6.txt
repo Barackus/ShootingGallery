@@ -1,0 +1,42 @@
+127|517.485107|false|far|static|Gun|Second|2|0|47.4851|1.126831|46.43026|6.551372,7.569136,6.256003,|Inner Red/Inner Red/Inner Red
+128|430.0|false|medium|dynamic|Gun|Second|2|2|0.0|3.634521|18.404495|11.197765,18.96542,10.65146,|Near Miss/Near Miss/Half Blue/Outer Black/Half Blue
+129|354.326843|false|far|dynamic|Gun|Second|1|1|24.326853|2.520508|74.973602|22.534389,5.023516,13.195277,|Outer White/Complete Miss/Inner Red/Half Blue
+130|549.502319|false|close|static|Gun|Second|2|0|49.502338|1.017822|20.932457|2.30612,2.221615,1.129747,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+131|478.960175|false|close|dynamic|Gun|Second|2|0|38.960171|1.768555|132.07312|17.087271,11.445983,20.782877,|Outer Black/Half Blue/Outer White
+132|498.335449|false|medium|dynamic|Gun|Second|2|0|48.335434|1.059326|20.737646|20.069284,9.643054,12.750998,|Outer White/Inner Red/Half Blue
+133|514.925537|false|medium|dynamic|Gun|Second|2|0|49.925537|1.003906|51.859535|3.578847,20.429363,9.792896,|Bullseye Yellow/Outer White/Inner Red
+134|537.94342|false|medium|dynamic|Gun|Second|2|0|47.94342|1.099182|41.173134|6.288414,2.657757,1.176658,|Inner Red/Bullseye Yellow/Bullseye Yellow
+135|371.520935|false|medium|dynamic|Gun|Second|1|1|26.520937|2.395264|75.796196|15.264109,9.255538,13.538623,|Outer Black/Near Miss/Inner Red/Half Blue
+136|474.125824|false|medium|dynamic|Gun|Second|2|1|24.125832|1.964355|22.66431|15.316595,8.383162,7.258486,|Near Miss/Outer Black/Inner Red/Inner Red
+137|343.765686|false|medium|dynamic|Gun|Second|1|2|18.765667|2.604919|48.900558|21.359222,11.160961,14.518008,|Near Miss/Outer White/Near Miss/Half Blue/Half Blue
+138|497.903168|false|medium|static|Gun|Second|2|0|17.903175|2.799316|63.091316|6.064171,4.009153,5.398165,|Inner Red/Bullseye Yellow/Inner Red
+139|540.069641|false|close|static|Gun|Second|2|0|40.069656|1.712708|148.522827|3.398043,2.199589,1.233995,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+140|511.745789|false|far|dynamic|Gun|Second|2|0|41.745804|1.46344|63.390976|8.816826,3.66844,16.481556,|Inner Red/Bullseye Yellow/Outer Black
+141|526.454834|false|close|static|Gun|Second|2|0|36.454868|1.881836|103.27903|6.730464,1.98923,1.957765,|Inner Red/Bullseye Yellow/Bullseye Yellow
+142|497.581238|false|close|dynamic|Gun|Second|2|0|47.581219|1.168762|133.193802|3.425348,23.347244,21.940706,|Bullseye Yellow/Outer White/Outer White
+143|522.800293|false|close|static|Gun|Second|2|0|37.80032|1.823975|117.947296|13.437881,2.358124,1.113514,|Half Blue/Bullseye Yellow/Bullseye Yellow
+144|420.0|false|close|dynamic|Gun|Second|1|1|50.0|0.863037|10.452221|6.452473,8.888351,0.740583,|Inner Red/Near Miss/Inner Red/Bullseye Yellow
+145|519.164307|false|medium|static|Gun|Second|2|0|29.164297|2.203308|69.189445|8.125194,3.020413,1.443621,|Inner Red/Bullseye Yellow/Bullseye Yellow
+146|544.439026|false|close|static|Gun|Second|2|0|44.439037|1.391235|137.48793|2.238159,2.203099,1.480456,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+147|537.039795|false|medium|static|Gun|Second|2|0|47.039803|1.097351|17.847845|6.45492,4.755485,2.471406,|Inner Red/Bullseye Yellow/Bullseye Yellow
+148|520.0|false|close|dynamic|Gun|Second|2|0|50.0|0.82251|17.317616|4.414289,13.851183,11.298664,|Bullseye Yellow/Half Blue/Half Blue
+149|494.403687|false|far|static|Gun|Second|2|0|19.403685|2.715576|63.133694|8.727501,4.147289,10.064922,|Inner Red/Bullseye Yellow/Half Blue
+150|400.0|false|close|dynamic|Gun|Second|1|1|50.0|0.889648|69.485237|17.477081,16.297466,0.748966,|Outer Black/Near Miss/Outer Black/Bullseye Yellow
+151|533.125427|false|medium|static|Gun|Second|2|0|43.125408|1.422241|84.499222|9.39468,3.715372,2.113499,|Inner Red/Bullseye Yellow/Bullseye Yellow
+152|534.149902|false|medium|static|Gun|Second|2|0|44.149937|1.391479|114.017891|6.08882,4.496943,4.036275,|Inner Red/Bullseye Yellow/Bullseye Yellow
+153|468.415375|false|close|dynamic|Gun|Second|2|1|28.415377|2.269287|73.275352|21.435659,2.214179,11.216167,|Complete Miss/Outer White/Bullseye Yellow/Half Blue
+154|380.0|false|far|dynamic|Gun|Second|1|1|50.0|0.931763|28.806942|18.136068,7.369568,15.696186,|Outer Black/Complete Miss/Inner Red/Outer Black
+155|534.818298|false|medium|dynamic|Gun|Second|2|0|44.818298|1.267029|49.301586|9.850336,1.365474,4.565585,|Inner Red/Bullseye Yellow/Bullseye Yellow
+156|525.0|false|far|static|Gun|Second|2|0|50.0|0.946716|16.014416|13.089282,9.828424,2.709354,|Half Blue/Inner Red/Bullseye Yellow
+157|400.0|false|close|dynamic|Gun|Second|1|2|50.0|0.751282|61.006443|9.222225,6.251462,1.331132,|Inner Red/Inner Red/Complete Miss/Near Miss/Bullseye Yellow
+158|503.030762|false|medium|dynamic|Gun|Second|2|0|38.030743|1.585876|42.824745|10.232317,5.320037,5.118437,|Half Blue/Inner Red/Inner Red
+159|529.950134|false|far|static|Gun|Second|2|0|39.950134|1.687988|123.989265|7.493861,1.989829,4.273695,|Inner Red/Bullseye Yellow/Bullseye Yellow
+160|510.89566|false|medium|dynamic|Gun|Second|2|0|45.895653|1.252197|84.618233|6.301638,12.546973,5.206815,|Inner Red/Half Blue/Inner Red
+161|410.0|false|close|dynamic|Gun|Second|1|1|50.0|0.77887|23.143642|7.416488,8.656248,7.868758,|Inner Red/Near Miss/Inner Red/Inner Red
+162|430.0|false|close|dynamic|Gun|Second|1|1|50.0|0.905823|35.625412|5.066471,4.587507,2.54187,|Inner Red/Near Miss/Bullseye Yellow/Bullseye Yellow
+163|534.24115|false|close|static|Gun|Second|2|0|44.24115|1.39209|121.496574|7.712715,3.851404,2.053082,|Inner Red/Bullseye Yellow/Bullseye Yellow
+164|471.789459|false|close|dynamic|Gun|Second|2|1|21.789461|2.757446|88.635216|7.636462,13.31508,11.296588,|Near Miss/Inner Red/Half Blue/Half Blue
+165|529.823242|false|far|static|Gun|Second|2|0|39.823246|1.602356|74.825844|7.744891,2.583603,4.664873,|Inner Red/Bullseye Yellow/Bullseye Yellow
+166|515.221985|false|far|static|Gun|Second|2|0|40.221992|1.28125|14.256405|11.353009,6.613223,1.6229,|Half Blue/Inner Red/Bullseye Yellow
+167|530.0|false|close|dynamic|Gun|Second|2|0|50.0|0.792236|31.712971|8.726721,7.895591,3.329755,|Inner Red/Inner Red/Bullseye Yellow
+168|518.056152|false|far|static|Gun|Second|2|0|38.056114|1.474915|25.959551|6.300522,7.836169,3.007309,|Inner Red/Inner Red/Bullseye Yellow

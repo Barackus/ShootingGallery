@@ -1,0 +1,55 @@
+0|0.0|false|||||0|0|0.0|0.0|0.0||
+1|550.0|true|close| static|Gun|First|2|0|50.0|0.622025|85.869919|1.057203,1.933753,0.786747,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+2|525.0|true|far| dynamic|Gun|First|2|0|50.0|0.800875|75.271324|3.745361,6.215172,12.020121,|Bullseye Yellow/Inner Red/Half Blue
+3|523.075928|true|far| static|Gun|First|2|0|43.075935|1.412766|76.573769|2.482256,6.163601,5.34166,|Bullseye Yellow/Inner Red/Inner Red
+4|502.478943|true|far| dynamic|Gun|First|2|0|47.478958|1.133701|53.503922|22.654165,16.391483,4.440329,|Outer White/Outer Black/Bullseye Yellow
+5|0.0|true|far| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+6|0.0|true|close| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+7|0.0|true|close| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+8|0.0|true|close| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+9|0.0|true|close| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+10|0.0|true|medium| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+11|0.0|true|medium| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+12|0.0|true|far| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+13|0.0|true|medium| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+14|0.0|true|medium| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+15|0.0|true|far| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+16|0.0|true|medium| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+17|0.0|true|close| static|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+18|0.0|true|medium| dynamic|Gun|First|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+19|525.652344|true|close| static| Head|Second|2|0|35.65237|1.947006|108.475243|6.308446,1.600573,1.588196,|Inner Red/Bullseye Yellow/Bullseye Yellow
+20|528.786133|true|medium| static| Head|Second|2|0|43.786156|1.344681|61.097931|14.031277,2.695487,0.864315,|Half Blue/Bullseye Yellow/Bullseye Yellow
+21|0.0|true|close| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+22|0.0|true|far| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+23|0.0|true|far| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+24|550.0|true|far| dynamic| Head|Second|2|0|50.0|0.577423|60.222488|3.692374,0.670989,4.387135,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+25|365.0|true|far| dynamic| Head|Second|1|1|0.0|2.033936|5.348198|4.804965,5.785601,13.545872,|Bullseye Yellow/Inner Red/Near Miss/Half Blue
+26|0.0|true|far| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+27|0.0|true|medium| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+28|0.0|true|medium| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+29|150.0|true|close| static| Head|Second|0|0|50.0|0.588348|32.112862|4.791461,0.0,0.0,|Bullseye Yellow
+30|-20.0|true|far| static| Head|Second|0|1|0.0|0.0|0.0|0.0,0.0,0.0,|Complete Miss
+31|0.0|true|close| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+32|0.0|true|medium| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+33|0.0|true|close| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+34|0.0|true|close| static| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+35|0.0|true|medium| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+36|0.0|true|medium| dynamic| Head|Second|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+37|531.645508|true|close| static| Mouse|Third|2|0|31.645498|1.779907|30.122051|4.529745,3.011894,1.40326,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+38|494.885864|true|medium| dynamic| Mouse|Third|2|0|44.885864|1.311981|82.601532|16.064537,15.515755,5.0313,|Outer Black/Outer Black/Inner Red
+39|545.691406|true|close| static| Mouse|Third|2|0|45.691387|1.244446|65.455849|1.520403,1.742571,1.2735,|Bullseye Yellow/Bullseye Yellow/Bullseye Yellow
+40|0.0|true|medium| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+41|0.0|true|close| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+42|0.0|true|far| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+43|0.0|true|far| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+44|0.0|true|close| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+45|0.0|true|medium| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+46|0.0|true|close| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+47|0.0|true|far| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+48|0.0|true|medium| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+49|0.0|true|far| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+50|0.0|true|medium| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+51|0.0|true|close| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+52|0.0|true|medium| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+53|0.0|true|far| dynamic| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
+54|0.0|true|far| static| Mouse|Third|0|0|0.0|0.0|0.0|0.0,0.0,0.0,|
